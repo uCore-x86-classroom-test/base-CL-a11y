@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "lab1",
+      "setup": "",
+      "run": "echo hello",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 15,
+      "points": 100
+    }
+  ]
+}
