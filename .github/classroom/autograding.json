@@ -1,7 +1,17 @@
 {
   "tests": [
     {
-      "name": "lab1",
+      "name": "test1",
+      "setup": "",
+      "run": "echo hello",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 15,
+      "points": 100
+    },
+    {
+      "name": "test2",
       "setup": "",
       "run": "echo hello",
       "input": "",
