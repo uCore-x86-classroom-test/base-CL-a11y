@@ -3,7 +3,7 @@
     {
       "name": "test1",
       "setup": "",
-      "run": "echo hello",
+      "run": "sh 1.sh",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -13,7 +13,7 @@
     {
       "name": "test2",
       "setup": "",
-      "run": "echo hello",
+      "run": "sh 2.sh",
       "input": "",
       "output": "",
       "comparison": "included",
